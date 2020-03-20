@@ -6,9 +6,9 @@ class mypg:
 
         self.creds = {
             'host':'dbclass.cs.pdx.edu',
-            'dbname':'win20db58',
-            'user':'win20db58',
-            'password':'ar3Nvvk+4h'
+            'dbname':'',
+            'user':'',
+            'password':''
         }
 
 
